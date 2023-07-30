@@ -21,4 +21,4 @@ According to planned out map, this route is 18 miles (\~29 km) long, with an est
 
 This was the plan I looked into for the trip. For the full layout of specifics regarding the route, time and mileage, check out the image below:
 
-<img src="/assets/blog/AstoriaParktoRockawayBeach.png" alt="Google Maps">
+<img src="AstoriaParktoRockawayBeach.pdf" alt="Google Maps">
