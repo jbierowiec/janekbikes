@@ -17,12 +17,7 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", default: ["post"], required: false }
       - { label: "Featured Image", name: "image", widget: "image", required: false }
       - { label: "Image Caption", name: "imageAlt", widget: "string", required: false }
+      - { label: "Featured PDF", name: "pdf", widget: string, required: false }
+      - { label: "PDF url", name: "pdf_url", widget: string, required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
-      - { label: "Status", name: "status", widget: "select", options: ["draft", "published"], required: true}
-  - name: "pdf"
-    label: "PDF"
-    folder: "src/pdf"
-    create: true
-    fields: 
-      - { name: title, label: Title, widget: string }
-      - { name: pdf_url, label: PDF URL, widget: string }
+      - { label: "Status", name: "status", widget: "select", options: ["draft", "published"], required: true }
