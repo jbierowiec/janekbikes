@@ -11,7 +11,6 @@ tags:
   - featured
 image: /assets/blog/article-2.jpg
 imageAlt: 'An image of Rockaway Beach in Queens, NYC'
-pdf_url: /assets/blog/AstoriaParktoRockawayBeach.pdf
 status: published
 ---
 This trip came about rather spontaneously. My good friend from high school texted me that he got a new bike and wanted to try out something new. A trip from the top of Queens to the bottom of Queens, that being from Astoria Park to Rockaway Beach. Previous to that message I had no plans other than work, so to see my friend offer such a proposal, was a blessing. 
