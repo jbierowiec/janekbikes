@@ -20,3 +20,5 @@ Due to the idea's unplanned nature, and short notice to when we would do it, I d
 According to planned out map, this route is 18 miles (\~29 km) long, with an estimated time of travel to be 1 hour and 38 minutes. Mind you, this is in one direction, so for the total trail, we would complete 36 miles (\~58 km) in an ideal time of 3 hours and 16 minutes. 
 
 This was the plan I looked into for the trip. For the full layout of specifics regarding the route, time and mileage, check out the image below:
+
+<img src="AstoriaParktoRockawayBeach.png" alt="Google Maps">
