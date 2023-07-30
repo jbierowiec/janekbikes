@@ -19,3 +19,4 @@ collections:
       - { label: "Image Caption", name: "imageAlt", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Status", name: "status", widget: "select", options: ["draft", "published"]}
+      - { label: "Published", name: "published", widget: "select", options: ["draft", "published"], default: true } # Add this line
