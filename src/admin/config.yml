@@ -19,7 +19,6 @@ collections:
       - { label: "Image Caption", name: "imageAlt", widget: "string", required: false }
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - { label: "Status", name: "status", widget: "select", options: ["draft", "published"], required: true}
-collections:
   - name: "pdf"
     label: "PDF"
     folder: "src/pdf"
