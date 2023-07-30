@@ -6,6 +6,7 @@ tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
 imageAlt: An image of NYC's Central Park
 description: A short introductory article to my blog and what its all about!
+status: published
 ---
 
 Have you ever wanted to get away from the city for a couple of hours? Not too far to have a vacation but far enough to forget about the stresses of city life? Well this blog is the right place for you. The purpose of this blog is to be a collection of trips that I have made outside or around the city that you can use as a source of inspiration to get to your own getaways. Most of these trips will be weekend trips or short vacations during long three day weekends. I hope these posts can motivate others to also take initiative in getting out of their comfort zone and try something new given the time and the opportunity.

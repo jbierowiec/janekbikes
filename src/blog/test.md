@@ -9,5 +9,6 @@ tags:
   - featured
 image: /assets/blog/AstoriaParktoRockawayBeach.png
 imageAlt: 'Test Image'
+status: draft
 ---
 Test content.
