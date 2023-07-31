@@ -1,6 +1,6 @@
 ---
 title: My First Blog
-author: Jan C. Bierowiec
+author: The Anonymous New Yorker
 date: 2023-07-27
 tags: ["post", "featured"]
 image: /assets/blog/article-1.jpg
