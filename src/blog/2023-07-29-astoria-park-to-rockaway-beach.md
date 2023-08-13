@@ -34,7 +34,6 @@ For a trip that is 20 miles long, taking up a quarter of the day cycling, and ab
 I recommend for others to try out this trip and on their own, with a friend, or even a group of friends. Feel free to follow the route I created or make your own. That is all for this post! See you in the next one!
 
 <style>
-
 .link {
     border: 1px solid black;
     border-radius: 15px;
@@ -43,24 +42,18 @@ I recommend for others to try out this trip and on their own, with a friend, or 
     margin: auto;
     padding: 10px;
 }
-
 .pdf {
     display: flex;
     justify-content: center;
     text-decoration: none;
     color: black;
 }
-
 .pdf:hover {
-
-text-decoration: underline;
-
+    text-decoration: underline;
 }
-
 @media (max-width: 650px) {
     .link {
         width: 90%;
     }
 }
-
 </style>
