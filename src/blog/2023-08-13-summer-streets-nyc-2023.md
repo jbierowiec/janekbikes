@@ -19,4 +19,16 @@ During the last month of summer on the first three Saturdays of the month, New Y
 
 This is my second time partipating in Summer Streets as I have participated in it last year and I must say things have changed.
 
-<a href=""></a>
+<p><a class="maps" href="/assets/blog/summer-streets-2022-map.jpg">Click Here</a></p>
+
+<style>
+
+.maps {
+
+display: flex;
+
+justify-content: center;
+
+}
+
+</style>
