@@ -38,44 +38,25 @@ During work, I was looking forward to the upcoming weekend to take part in the e
 <style>
 
 .link {
-
     border: 1px solid black;
-
     border-radius: 15px;
-
     width: 50%;
-
     background: lightgray;
-
     margin: auto;
-
     padding: 10px;
-
-\    max-width: 800px;
-
 }
 
 .maps {
-
     display: flex;
-
     justify-content: center;
-
     text-decoration: none;
-
     color: black;
-
 }
 
 media (max-width: 650px) {
-
-\    .link {
-
-\    width: 30%;
-
-\    max-width: 800px;
-
-\    }
+    .link {
+        width: 100%;
+    }
 }
 
 </style>
