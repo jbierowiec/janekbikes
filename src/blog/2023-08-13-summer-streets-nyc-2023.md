@@ -21,11 +21,15 @@ This is my second time partipating in Summer Streets as I have participated in i
 
 If you would like to see how different the routes were in the past two years, click the links below to check them out:
 
+<br>
+
 <div class="link"><p><a class="maps" href="/assets/blog/summer-streets-2022-map.jpg" target="_blank">Click here to see the Summer Streets 2022 Route</a></p></div>
 
 <br>
 
 <div class="link"><p><a class="maps" href="/assets/blog/summer-streets-2023-map.jpg" target="_blank">Click here to see the Summer Streets 2023 Route</a></p></div>
+
+<br>
 
 Most summers, people move away from their hometowns or cities and go either to another country for a brief period of time or go to a different region in the United States. For those who stay home or close to home over the summer because of work, often don't get that same enjoyment of a long vacation as others do with a plane ticket or driving across the states. It is often difficult to find anything to do relating to a feeling of a getaway from the city. Summer Streets however offer that opportunity for those working from Monday to Friday in the summer. Although the time of 7:00 A.M. to 1:00 P.M. may seem a bit too early for the late sleepers of the city, for those willing to get up early and experience a relaxing moment taking in the city for its beauty, and not its daunting work, it is an experience to remember. 
 
@@ -35,36 +39,43 @@ During work, I was looking forward to the upcoming weekend to take part in the e
 
 .link {
 
-border: 1px solid black;
+    border: 1px solid black;
 
-border-radius: 15px;
+    border-radius: 15px;
 
-width: 50%;
+    width: 50%;
 
-background: lightgray;
+    background: lightgray;
 
-margin: auto;
+    margin: auto;
 
-padding: 10px;
+    padding: 10px;
+
+\    max-width: 800px;
 
 }
 
 .maps {
 
-display: flex;
+    display: flex;
 
-justify-content: center;
+    justify-content: center;
 
-text-decoration: none;
+    text-decoration: none;
 
-color: black;
+    color: black;
 
 }
 
-media (max-width: 300px) {
+media (max-width: 650px) {
 
-width: 30%
+\    .link {
 
+\    width: 30%;
+
+\    max-width: 800px;
+
+\    }
 }
 
 </style>
