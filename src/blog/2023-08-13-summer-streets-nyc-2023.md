@@ -36,7 +36,6 @@ Most summers, people move away from their hometowns or cities and go either to a
 During work, I was looking forward to the upcoming weekend to take part in the event. When the the sun set that Friday evening, on my way home, I set my timer in the moring to 8:00 with the intention of starting at 9:00. Once at home, I did what I needed to do left to end the day and hit the bed as early as possible. The alarm woke me up and I started to get ready for the trip. Once ready, I made my way towards midtown crossing the Queensboro Bridge and in three and a half blocks I reached Park Ave. 
 
 <style>
-
 .link {
     border: 1px solid black;
     border-radius: 15px;
@@ -45,7 +44,6 @@ During work, I was looking forward to the upcoming weekend to take part in the e
     margin: auto;
     padding: 10px;
 }
-
 .maps {
     display: flex;
     justify-content: center;
@@ -53,10 +51,14 @@ During work, I was looking forward to the upcoming weekend to take part in the e
     color: black;
 }
 
+.maps:hover {
+
+text-decoration: underline;
+
+}
 @media (max-width: 650px) {
     .link {
         width: 90%;
     }
 }
-
 </style>
