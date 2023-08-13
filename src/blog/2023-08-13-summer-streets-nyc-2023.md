@@ -1,5 +1,12 @@
 ---
 title: Summer Streets NYC 2023
+description: >-
+  My second adventure. Although it took place in the heart of the city, that
+  being Manhattan, it was a great opportunity to exercise and to view the city
+  from a different angle. An angle where every New Yorker came together to enjoy
+  what the greatest city in the world has to offer. That being a time to spend
+  with friends and family and taking in the marvels of infrastructure and nature
+  without stressing over a deadline or a chore.
 author: The Anonymous New Yorker
 date: 2023-08-13T14:10:22.472Z
 tags:
