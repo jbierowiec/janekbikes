@@ -21,17 +21,41 @@ This is my second time partipating in Summer Streets as I have participated in i
 
 If you would like to see how different the routes were in the past two years, click the links below to check them out:
 
-<p><a class="maps" href="/assets/blog/summer-streets-2022-map.jpg" target="_blank">Click here to see the Summer Streets 2022 Route</a></p>
+<div class="link"><p><a class="maps" href="/assets/blog/summer-streets-2022-map.jpg" target="_blank">Click here to see the Summer Streets 2022 Route</a></p></div>
 
-<p><a class="maps" href="/assets/blog/summer-streets-2023-map.jpg" target="_blank">Click here to see the Summer Streets 2023 Route</a></p>
+<br>
+
+<div class="link"><p><a class="maps" href="/assets/blog/summer-streets-2023-map.jpg" target="_blank">Click here to see the Summer Streets 2023 Route</a></p></div>
+
+Most summers, people move away from their hometowns or cities and go either to another country for a brief period of time or go to a different region in the United States. For those who stay home or close to home over the summer because of work, often don't get that same enjoyment of a long vacation as others do with a plane ticket or driving across the states. It is often difficult to find anything to do relating to a feeling of a getaway from the city. Summer Streets however offer that opportunity for those working from Monday to Friday in the summer. Although the time of 7:00 A.M. to 1:00 P.M. may seem a bit too early for the late sleepers of the city, for those willing to get up early and experience a relaxing moment taking in the city for its beauty, and not its daunting work, it is an experience to remember. 
+
+During work, I was looking forward to the upcoming weekend to take part in the event. When the the sun set that Friday evening, on my way home, I set my timer in the moring to 8:00 with the intention of starting at 9:00. Once at home, I did what I needed to do left to end the day and hit the bed as early as possible. The alarm woke me up and I started to get ready for the trip. Once ready I made my way towards midtown crossing the Queensboro Bridge and in three and a half blocks I reached Park Ave. 
 
 <style>
+
+.link {
+
+border: 1px solid black;
+
+border-radius: 10px;
+
+width: 50%;
+
+background: lightgray;
+
+margin: auto;
+
+}
 
 .maps {
 
 display: flex;
 
 justify-content: center;
+
+text-decoration: none;
+
+color: black;
 
 }
 
