@@ -40,7 +40,7 @@ During work, I was looking forward to the upcoming weekend to take part in the e
 .link {
     border: 1px solid black;
     border-radius: 15px;
-    width: 50%;
+    width: 70%;
     background: lightgray;
     margin: auto;
     padding: 10px;
@@ -53,9 +53,9 @@ During work, I was looking forward to the upcoming weekend to take part in the e
     color: black;
 }
 
-media (max-width: 650px) {
+@media (max-width: 650px) {
     .link {
-        width: 100%;
+        width: 90%;
     }
 }
 
