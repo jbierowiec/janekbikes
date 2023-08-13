@@ -15,4 +15,6 @@ image: /assets/blog/summer_streets_2023.jpg
 imageAlt: 'Image of Park Ave closed off for cyclists, runners, and skaters'
 status: published
 ---
-During the last month of summer on the first three Saturdays of the month, New York City hosts Summer Streets
+During the last month of summer on the first three Saturdays of the month, New York City hosts Summer Streets. It is worth noting that Summer Streets also take place in July in the boroughs of Queens, Brooklyn, Staten Island, and the Bronx, however the longest trail is the one in Manhattan. 
+
+This is my second time partipating in Summer Streets as I have participated in it last year and I must say things have changed.
