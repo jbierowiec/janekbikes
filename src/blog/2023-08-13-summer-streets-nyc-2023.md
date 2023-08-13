@@ -52,9 +52,7 @@ During work, I was looking forward to the upcoming weekend to take part in the e
 }
 
 .maps:hover {
-
-text-decoration: underline;
-
+    text-decoration: underline;
 }
 @media (max-width: 650px) {
     .link {
