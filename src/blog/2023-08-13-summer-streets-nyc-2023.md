@@ -37,13 +37,15 @@ During work, I was looking forward to the upcoming weekend to take part in the e
 
 border: 1px solid black;
 
-border-radius: 10px;
+border-radius: 15px;
 
 width: 50%;
 
 background: lightgray;
 
 margin: auto;
+
+padding: 10px;
 
 }
 
@@ -56,6 +58,12 @@ justify-content: center;
 text-decoration: none;
 
 color: black;
+
+}
+
+media (max-width: 300px) {
+
+width: 30%
 
 }
 
