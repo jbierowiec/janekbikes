@@ -21,7 +21,7 @@ According to planned out map, this route is 20 miles (\~32.2 km) long, with an e
 
 This was the plan I looked into for the trip. For the full layout of specifics regarding the route, time and mileage, check out the PDF below:
 
-<div class="link"><p><a class="pdf" href="/assets/blog/AstoriaParktoRockawayBeach.pdf" target="_blank">Click here</a></p></div>
+<div class="link"><p><a class="pdf" href="/assets/blog/AstoriaParktoRockawayBeach.pdf" target="_blank">Click here to view PDF</a></p></div>
 
 Me and my friend cycled at a smooth pace for the first two thirds of the journey. Once we reached Howard Beach, we both felt a definite, but not intense head wind. At this point, we were slowed down by the wind, and we had to pedal stronger, but this made the reward of reaching the beach more encouraging. Once we crossed the Cross Bay Veterans Memorial Bridge, we we a few blocks away from our final destination.
 
@@ -36,41 +36,31 @@ I recommend for others to try out this trip and on their own, with a friend, or 
 <style>
 
 .link {
-
-\    border: 1px solid black;
-
-\    border-radius: 15px;
-
-\    width: 70%;
-
-\    background: lightgray;
-
-\    margin: auto;
-
-\    padding: 10px;
-
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 70%;
+    background: lightgray;
+    margin: auto;
+    padding: 10px;
 }
 
 .pdf {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
 
-\    display: flex;
+.pdf:hover {
 
-\    justify-content: center;
-
-\    text-decoration: none;
-
-\    color: black;
+text-decoration: underline;
 
 }
 
 @media (max-width: 650px) {
-
-\    .link {
-
-\    width: 90%;
-
-\    }
-
+    .link {
+        width: 90%;
+    }
 }
 
 </style>
