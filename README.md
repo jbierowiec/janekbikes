@@ -14,5 +14,4 @@ This website uses HTML, CSS, Nunjucks, eleventy.js, and Netlify's Content Manage
 * The CSS files is used for styling the pages
 * 3 blog articles for now all in the `blog`, two of which have been written in the admin panel and one hardcoded
 * images and the logo for the blog posts are in the `assets` folder
-
-The `public` folder contains the backend for the website, where all the formatting of the blog posts is contained and where 
+* The `public` folder contains the backend for the website, where all the formatting of the blog posts is contained
