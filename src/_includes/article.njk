@@ -14,13 +14,6 @@ layout: 'base.njk'
         {{ imageAlt }}
       </figcaption>
     </figure>
-    
-    {{ content | safe }}
-
-    <section>
-      <h3>Download PDF:</h3>
-      <a href="{{ pdf }}" target="_blank" class="btn">View PDF</a>
-    </section>
 
     <section>
       <h3>Watch Video:</h3>
@@ -28,6 +21,18 @@ layout: 'base.njk'
         <source src="{{ video }}" type="video/mp4">
         Your browser does not support the video tag.
       </video>
+    </section>
+    
+    {{ content | safe }}
+
+    <section>
+      <div class="link">
+        <p>
+          <a class="maps" href="{{ pdf }}" target="_blank">
+            Click here to view the PDF
+          </a>
+        </p>
+      </div>
     </section>
   
 </div>
