@@ -16,6 +16,19 @@ layout: 'base.njk'
     </figure>
     
     {{ content | safe }}
+
+    <section>
+      <h3>Download PDF:</h3>
+      <a href="{{ pdf }}" target="_blank" class="btn">View PDF</a>
+    </section>
+
+    <section>
+      <h3>Watch Video:</h3>
+      <video controls width="100%">
+        <source src="{{ video }}" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </section>
   
 </div>
 </article>
