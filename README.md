@@ -1,4 +1,4 @@
-# escnyc.com
+# janekbikes.netlify.app
 
 ## Welcome to my math puzzle blog!
 
@@ -6,7 +6,7 @@
 
 This blog posts mathematical puzzles, along with their solutions once every two weeks. The purpose of this blog is to further not only my personal mathematical, logical, and analytical mind, but to share this experience with others, so that more people can become thinkers.
 
-[escnyc.com](https://escnyc.com)
+[janekbikes.netlify.app](https://janekbikes.netlify.app)
 
 This website uses HTML, CSS, Nunjucks, eleventy.js, and Netlify's Content Management System (CMS) which was also used as the Static Site Generator for the website. The `src` folder contains all the files that are the bulk of the site. The folder contains:
 
