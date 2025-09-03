@@ -1,10 +1,12 @@
 # janekbikes.netlify.app
 
-## Welcome to my math puzzle blog!
+<!-- ## Welcome to my math puzzle blog! --> 
 
-<!--This blog is about my travels in and around NYC that give a feeling of leaving the stresses of city life for a day or two. More of my goals with the blog are explained in my first blog post. If you would like to check out the blog, click the link down below:-->
+ ## Welcome to my cycling blog!
 
-This blog posts mathematical puzzles, along with their solutions once every two weeks. The purpose of this blog is to further not only my personal mathematical, logical, and analytical mind, but to share this experience with others, so that more people can become thinkers.
+This blog is about my travels on my bike in and outside of NYC that give a feeling of leaving the stresses of city life for a day, two, or more. The blog will be a collection of adventures, experiences, and a way for me to express my passion for cycling aside from using Strava and Instagram. More of my goals with the blog are explained in my first blog post. If you would like to check out the blog, click the link down below:
+
+<!-- This blog posts mathematical puzzles, along with their solutions once every two weeks. The purpose of this blog is to further not only my personal mathematical, logical, and analytical mind, but to share this experience with others, so that more people can become thinkers. -->
 
 [janekbikes.netlify.app](https://janekbikes.netlify.app)
 
